@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlockAvoid</string>
+    <string name="my_location">Show my location</string>
+    <string name="map_notice">Map data © OpenStreetMap contributors</string>
+</resources>
